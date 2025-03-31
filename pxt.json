@@ -1,0 +1,44 @@
+{
+    "name": "Jungle adventure game",
+    "description": "",
+    "dependencies": {
+        "device": "*"
+    },
+    "files": [
+        "main.blocks",
+        "main.ts",
+        "README.md",
+        "assets.json",
+        "tilemap.g.jres",
+        "tilemap.g.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "2.0.40",
+        "targetId": "arcade"
+    },
+    "supportedTargets": [
+        "arcade"
+    ],
+    "preferredEditor": "blocksprj",
+    "palette": [
+        "#000000",
+        "#FEC700",
+        "#9d303b",
+        "#d26471",
+        "#e4943a",
+        "#9AA60E",
+        "#38571A",
+        "#4C815C",
+        "#17434b",
+        "#7ec4c1",
+        "#989898",
+        "#8c8fae",
+        "#583400",
+        "#CD916B",
+        "#BA9467",
+        "#5A1C00"
+    ]
+}
